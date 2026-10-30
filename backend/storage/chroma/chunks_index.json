@@ -1,0 +1,102 @@
+[
+  {
+    "chunk_id": "chk_p1_1",
+    "document_id": "doc_demo_1",
+    "document_name": "National Demographic Survey.pdf",
+    "page_number": 1,
+    "content": "According to the survey enumeration, the total population recorded in the report was 1,380,004,385. The percentage of rural population stands at 68.84%.",
+    "content_type": "text",
+    "section_title": "Demographics",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "chk_p2_1",
+    "document_id": "doc_demo_1",
+    "document_name": "National Demographic Survey.pdf",
+    "page_number": 2,
+    "content": "Table 2: State Literacy Rates. Kerala recorded the highest literacy rate at 94.00%. Bihar recorded 61.80%.",
+    "content_type": "table",
+    "section_title": "Education",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p1_c0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 1,
+    "content": "National Statistical Survey Report (Sample Data) Notice: This is synthetic sample test data generated strictly for developmental verification. Section 1: Executive Demographic Overview According to the survey enumeration, the total population recorded in the report was 1,380,004,385 across all surveyed administrative units. The percentage of rural population stands at 68.84%, reflecting continuous rural-urban demographic transition patterns. The overall national literacy rate recorded in the report was 74.04% for individuals aged seven years and above. The total number of registered workers identified during this survey period was 472,190,000 across organized and unorganized economic sectors. Key Indicator Summary Table (Page 1) Indicator Value Unit Survey Reference Period Total Population 1,380,004,385 Persons 2021 Survey Cycle National Literacy Rate 74.04% Percentage 2021 Survey Cycle Percentage of Rural Population 68.84% Percentage 2021 Survey Cycle Total Registered Workers 472,190,000 Workers 2021 Survey Cycle Sex Ratio 943 Females per 1000 Males 2021 Survey Cycle",
+    "content_type": "text",
+    "section_title": "Page 1",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p1_tbl_0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 1,
+    "content": "### Table: Statistical Table 1 (Page 1) (Page 1)\n\n| Total Population | 1,380,004,385 | Persons | 2021 Survey Cycle | National Literacy Rate |\n| --- | --- | --- | --- | --- |\n| 74.04% | Percentage | 2021 Survey Cycle | Percentage of Rural Population | 68.84% |\n| Percentage | 2021 Survey Cycle | Total Registered Workers | 472,190,000 | Workers |\n| 2021 Survey Cycle | Sex Ratio | 943 | Females per 1000 Males | 2021 Survey Cycle |",
+    "content_type": "table",
+    "section_title": "Page 1 - Statistical Table 1 (Page 1)",
+    "table_id": "tbl_3f786b76-8a64-4640-b31a-d0bdae2e7167_1_0"
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p2_c0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 2,
+    "content": "Section 2: State-wise Literacy Rate Analysis Table 2: State-wise Literacy Rates and Educational Metrics Educational attainment varied substantially across states. Kerala recorded the highest literacy rate at 94.00%, followed closely by Mizoram at 91.33% and Goa at 88.70%. In contrast, Bihar recorded the lowest literacy rate at 61.80%. State Literacy Rate (%) Male Literacy (%) Female Literacy (%) Rank Kerala 94.00 96.11 92.07 1 Mizoram 91.33 93.35 89.27 2 Goa 88.70 92.65 84.68 3 Himachal Pradesh 82.80 89.53 75.93 4 Maharashtra 82.34 88.38 75.87 5 Gujarat 78.03 85.75 69.68 6 West Bengal 76.26 81.69 70.54 7 Uttar Pradesh 67.68 77.28 57.18 8 Bihar 61.80 71.20 51.50 9",
+    "content_type": "text",
+    "section_title": "Page 2",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p2_tbl_0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 2,
+    "content": "### Table: Statistical Table 1 (Page 2) (Page 2)\n\n| State | Literacy Rate (%) | Male Literacy (%) | Female Literacy (%) | Rank | Kerala |\n| --- | --- | --- | --- | --- | --- |\n| 94.00 | 96.11 | 92.07 | 1 | Mizoram | 91.33 |\n| 93.35 | 89.27 | 2 | Goa | 88.70 | 92.65 |\n| 84.68 | 3 | Himachal Pradesh | 82.80 | 89.53 | 75.93 |\n| 4 | Maharashtra | 82.34 | 88.38 | 75.87 | 5 |\n| Gujarat | 78.03 | 85.75 | 69.68 | 6 | West Bengal |\n| 76.26 | 81.69 | 70.54 | 7 | Uttar Pradesh | 67.68 |\n| 77.28 | 57.18 | 8 | Bihar | 61.80 | 71.20 |",
+    "content_type": "table",
+    "section_title": "Page 2 - Statistical Table 1 (Page 2)",
+    "table_id": "tbl_3f786b76-8a64-4640-b31a-d0bdae2e7167_2_0"
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p3_c0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 3,
+    "content": "Section 3: Labor Force and Unemployment Statistics Table 3: Labor Force Metrics by State Employment metrics across major industrial states demonstrate that Gujarat recorded the lowest unemployment rate at 2.2%, followed by Himachal Pradesh at 2.8% and Karnataka at 3.1%. The total number of registered workers in Maharashtra was highest at 49,427,000. State Unemployment Rate (%) Registered Workers Labor Participation (%) Gujarat 2.2 27,450,000 54.8 Himachal Pradesh 2.8 3,560,000 51.2 Karnataka 3.1 29,840,000 52.7 Maharashtra 3.5 49,427,000 53.9 West Bengal 4.6 34,750,000 48.3 Uttar Pradesh 5.8 65,820,000 46.1 Kerala 7.0 12,650,000 49.5 Haryana 9.0 9,870,000 45.2",
+    "content_type": "text",
+    "section_title": "Page 3",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p3_tbl_0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 3,
+    "content": "### Table: Statistical Table 1 (Page 3) (Page 3)\n\n| State | Unemployment Rate (%) | Registered Workers | Labor Participation (%) | Gujarat |\n| --- | --- | --- | --- | --- |\n| 2.2 | 27,450,000 | 54.8 | Himachal Pradesh | 2.8 |\n| 3,560,000 | 51.2 | Karnataka | 3.1 | 29,840,000 |\n| 52.7 | Maharashtra | 3.5 | 49,427,000 | 53.9 |\n| West Bengal | 4.6 | 34,750,000 | 48.3 | Uttar Pradesh |\n| 5.8 | 65,820,000 | 46.1 | Kerala | 7.0 |\n| 12,650,000 | 49.5 | Haryana | 9.0 | 9,870,000 |",
+    "content_type": "table",
+    "section_title": "Page 3 - Statistical Table 1 (Page 3)",
+    "table_id": "tbl_3f786b76-8a64-4640-b31a-d0bdae2e7167_3_0"
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p4_c0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 4,
+    "content": "Section 4: Decadal Population Growth Comparison (2011 - 2021) Table 4: Comparative Decadal Census Growth Rates A comparison of population changes between 2011 and 2021 indicates differing rates of decadal growth across states. State 2011 Population 2021 Population Percentage Change (%) Bihar 104,099,452 124,799,926 19.88 Uttar Pradesh 199,812,341 235,687,000 17.95 Gujarat 60,439,692 70,400,000 16.48 Maharashtra 112,374,333 126,189,673 12.29 West Bengal 91,276,115 99,600,000 9.12 Kerala 33,406,061 35,699,443 6.87",
+    "content_type": "text",
+    "section_title": "Page 4",
+    "table_id": ""
+  },
+  {
+    "chunk_id": "doc_3f786b76-8a64-4640-b31a-d0bdae2e7167_p4_tbl_0",
+    "document_id": "3f786b76-8a64-4640-b31a-d0bdae2e7167",
+    "document_name": "sample_statistical_report.pdf",
+    "page_number": 4,
+    "content": "### Table: Statistical Table 1 (Page 4) (Page 4)\n\n| 2011 Population | 2021 Population | Percentage Change (%) | Bihar | 104,099,452 | 124,799,926 |\n| --- | --- | --- | --- | --- | --- |\n| 19.88 | Uttar Pradesh | 199,812,341 | 235,687,000 | 17.95 | Gujarat |\n| 60,439,692 | 70,400,000 | 16.48 | Maharashtra | 112,374,333 | 126,189,673 |\n| 12.29 | West Bengal | 91,276,115 | 99,600,000 | 9.12 | Kerala |",
+    "content_type": "table",
+    "section_title": "Page 4 - Statistical Table 1 (Page 4)",
+    "table_id": "tbl_3f786b76-8a64-4640-b31a-d0bdae2e7167_4_0"
+  }
+]
